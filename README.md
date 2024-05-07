@@ -14,13 +14,13 @@
   Contact
 </h2>
 
-***📧 Email: [hafiznurrahman.dev@gmail.com](hafiznurrahman.dev@gmail.com)***
+***Email: [hafiznurrahman.dev@gmail.com](hafiznurrahman.dev@gmail.com)***
 <br/>
-***📍Linkedin: [https://www.linkedin.com/in/hafiznurrahman](https://www.linkedin.com/in/hafiznurrahman)***
+***Linkedin: [https://www.linkedin.com/in/hafiznurrahman](https://www.linkedin.com/in/hafiznurrahman)***
 <br/>
-***📍Instagram: [https://www.instagram.com/hfznr__](https://www.instagram.com/hfznr__)***
+***Instagram: [https://www.instagram.com/hfznr__](https://www.instagram.com/hfznr__)***
 <br/>
-***🌐 Website: [https://personalhafiznurrahman.vercel.app](https://portofoliohafiznurrahman.vercel.app)***
+***Website: [https://personalhafiznurrahman.vercel.app](https://portofoliohafiznurrahman.vercel.app)***
 
 <h2>
   <img width="32" height="32" src="https://img.icons8.com/fluency/48/layers.png" alt="layers"/>
