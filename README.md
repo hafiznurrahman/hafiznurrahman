@@ -20,7 +20,7 @@
 <br/>
 ***📍Instagram: [https://www.instagram.com/hfznr__](https://www.instagram.com/hfznr__)***
 <br/>
-***🌐 Website: [https://personalhafiznurrahman.vercel.app](https://personalhafiznurrahman.vercel.app)***
+***🌐 Website: [https://personalhafiznurrahman.vercel.app](https://portofoliohafiznurrahman.vercel.app)***
 
 <h2>
   <img width="32" height="32" src="https://img.icons8.com/fluency/48/layers.png" alt="layers"/>
