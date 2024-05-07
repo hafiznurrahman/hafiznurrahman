@@ -1,15 +1,32 @@
-# ![img](https://img.icons8.com/color/48/circled-user-male-skin-type-3--v1.png) I'M HAFIZ NUR RAHMAN
-- ***Profession:*** `Full Stack Developer 🧑‍💻`
-- ***Origin:*** `Indonesia 🇮🇩`
-- ***Description:*** `I enjoy collaborating and learning new things. 😃`
+<h1>
+  <img width="32" height="32" src="https://img.icons8.com/color/48/circled-user-male-skin-type-3--v1.png" alt="circled-user-male-skin-type-3--v1"/>
+  I'M HAFIZ NUR RAHMAN
+</h1>
 
-## ☎️ Contact:
-- _📧 Email: [hafiznurrahman.dev@gmail.com](hafiznurrahman.dev@gmail.com)_
-- _📍Linkedin: [https://www.linkedin.com/in/hafiznurrahman](https://www.linkedin.com/in/hafiznurrahman)_
-- _📍Instagram: [https://www.instagram.com/hfznr__](https://www.instagram.com/hfznr__)_
-- _🌐 Website: [https://personalhafiznurrahman.vercel.app](https://personalhafiznurrahman.vercel.app)_
+***Profession:*** `Full Stack Developer 🧑‍💻`
+<br/>
+***Origin:*** `Indonesia 🇮🇩`
+<br/>
+***Description:*** `I enjoy collaborating and learning new things. 😃`
 
-## ⚙️ Technologies:
+<h2>
+  <img width="32" height="32" src="https://img.icons8.com/fluency/48/contact-card.png" alt="contact-card"/>
+  Contact
+</h2>
+
+***📧 Email: [hafiznurrahman.dev@gmail.com](hafiznurrahman.dev@gmail.com)***
+<br/>
+***📍Linkedin: [https://www.linkedin.com/in/hafiznurrahman](https://www.linkedin.com/in/hafiznurrahman)***
+<br/>
+***📍Instagram: [https://www.instagram.com/hfznr__](https://www.instagram.com/hfznr__)***
+<br/>
+***🌐 Website: [https://personalhafiznurrahman.vercel.app](https://personalhafiznurrahman.vercel.app)***
+
+<h2>
+  <img width="32" height="32" src="https://img.icons8.com/fluency/48/layers.png" alt="layers"/>
+Technology
+</h2>
+
 ![img](https://img.icons8.com/color/48/html-5--v1.png) 
 ![img](https://img.icons8.com/color/48/css3.png)
 ![img](https://img.icons8.com/color/48/javascript--v1.png)
