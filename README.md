@@ -14,8 +14,9 @@
 - _🌐 Website: [https://personalhafiznurrahman.vercel.app](https://personalhafiznurrahman.vercel.app)_
 
 ## ⚙️ Technologies:
-- **Programming Languages:** `HTML` `CSS` `JavaScript`
-- **Frameworks:** `TailwindCSS` `React`
-- **Backend:** `Node.js`
-- **Database:** `MySQL`
-- **Tools:** `GitHub` `Vercel`
+![img](https://img.icons8.com/color/48/html-5--v1.png) 
+![img](https://img.icons8.com/color/48/css3.png)
+![img](https://img.icons8.com/color/48/javascript--v1.png)
+![img](https://img.icons8.com/color/48/tailwind_css.png)
+![img](https://img.icons8.com/color/48/react-native.png)
+![img](https://img.icons8.com/color/48/react-native.png)
