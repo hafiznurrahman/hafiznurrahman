@@ -1,8 +1,4 @@
-# INTRODUCT MYSELF
-
-## 🔥 Profile: 
-
-- ***Name:*** `Hafiz Nurrahman 👋`
+# ![img](https://img.icons8.com/color/48/circled-user-male-skin-type-3--v1.png) I'M HAFIZ NUR RAHMAN
 - ***Profession:*** `Full Stack Developer 🧑‍💻`
 - ***Origin:*** `Indonesia 🇮🇩`
 - ***Description:*** `I enjoy collaborating and learning new things. 😃`
@@ -19,4 +15,5 @@
 ![img](https://img.icons8.com/color/48/javascript--v1.png)
 ![img](https://img.icons8.com/color/48/tailwind_css.png)
 ![img](https://img.icons8.com/color/48/react-native.png)
-![img](https://img.icons8.com/color/48/react-native.png)
+![img](https://img.icons8.com/fluency/48/node-js.png)
+![img](https://img.icons8.com/fluency/48/github.png)
