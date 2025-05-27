@@ -1,3 +1,1 @@
-<div>
-    <img src="mybanner.png">
-</div>
+![banner](mybanner.png)
