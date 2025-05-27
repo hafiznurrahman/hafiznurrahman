@@ -1,5 +1,3 @@
 <div>
-  <a href="./">
-    <img src="banner.gif">
-  </a>
+    <img src="mybanner.png">
 </div>
